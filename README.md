@@ -35,7 +35,7 @@ Manager dependencies are present.
 
 One way to install both stream-manager and its dependencies (i.e. cbor) is to run the following command:
 ```console
-pip3 install stream_manager
+pip3 install stream-manager
 ```
 
 ## Getting Help
